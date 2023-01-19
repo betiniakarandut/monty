@@ -14,7 +14,7 @@
 * The prototypes of all functions should be included in header file called monty.h
 * All header files should be include guarded
 * Do the tasks in the order shown in the project
-* The repository `monty` should be added as a submodule to [holbertonschool-low_level_programming](https://github.com/betiniakarandut/alx-low_level_programming) repository, under the name `0x17-stacks_queues_lifo_fifo`
+* The repository `monty` should be added as a submodule to [alx-low_level_programming](https://github.com/betiniakarandut/alx-low_level_programming) repository, under the name `0x18-stacks_queues_lifo_fifo`
 * Use the following data structures for this project:
 ```
 /**
